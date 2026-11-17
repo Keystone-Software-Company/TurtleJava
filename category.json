@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "id": "performance", "name": "Performance", "description": "Mods that make the game run faster." },
+    { "id": "utility",     "name": "Utility",     "description": "Quality-of-life helpers and tools." },
+    { "id": "visual",      "name": "Visual",      "description": "Shaders, lighting and graphical tweaks." },
+    { "id": "library",     "name": "Library",     "description": "APIs other mods depend on." },
+    { "id": "packs",       "name": "Resource Packs", "description": "Textures, sounds and models." },
+    { "id": "game",        "name": "Objective",      "description": "Mods that significantly modify the game" }
+  ]
+}

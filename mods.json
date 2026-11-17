@@ -1,0 +1,95 @@
+{
+  "mods": [
+    {
+      "name": "Fabric API",
+      "category": "library",
+      "file": "fabric263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Sodium",
+      "category": "performance",
+      "file": "sodium263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Iris Shaders",
+      "category": "visual",
+      "file": "iris263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Mod Menu",
+      "category": "utility",
+      "file": "modmenu263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "category": "utility",
+      "file": "minimap263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Xaero's World Map",
+      "category": "utility",
+      "file": "worldmap263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Turtle Shaders - Enhanced",
+      "category": "visual",
+      "file": "ecocomplementary263.zip",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Turtle Shaders - Eco",
+      "category": "visual",
+      "file": "regcomplementary263.zip",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Auto Totem",
+      "category": "utility",
+      "file": "autototem263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "category": "game",
+      "file": "worldmap263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "UkU Library",
+      "category": "library",
+      "file": "ukulib263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "UkU Armor HUD",
+      "category": "utility",
+      "file": "ukuarmorhud263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    },
+    {
+      "name": "Appleskin Hunger Tool",
+      "category": "utility",
+      "file": "apple263.jar",
+      "type": "mod",
+      "status": "uninstalled"
+    }
+  ]
+}
